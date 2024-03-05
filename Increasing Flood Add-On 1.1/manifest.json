@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Water is rising bit by bit in your world, your world will be inounded... This version generate water with a better generation quality, but not recommended for low-end devices.",
+        "name": "Increasing Flood Addon - 1.0 (high)",
+        "uuid": "f0006c01-0001-0000-0000-00000a00000a",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "Increasing Flood Addon - 1.0 (high)",
+            "type": "data",
+            "uuid": "f0006c01-0001-0000-0000-00000a00000b",
+            "version": [1, 0, 0]
+        }
+    ],
+    "subpacks": [
+    {
+      "folder_name": "water-from-0",
+      "name": "Water starts at Y=0",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "water-from-50",
+      "name": "Water starts at Y=50",
+      "memory_tier": 2
+    }
+    ]
+}

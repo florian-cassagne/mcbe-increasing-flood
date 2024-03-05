@@ -1,0 +1,7 @@
+----- v1.0 -----
+
+-Rising water start at Y=50 or Y=0 and rise to Y=+1 every 20 seconds.
+-Rising water don't destroy blocks (unlike my Lava Rising Add-On) but replace air and lava.
+-2 modes : water starts at level Y=0 or water starts at level Y=50.
+-2 version of this Add-on : One recommended for low-end devices,
+and an other for high-end devices.
